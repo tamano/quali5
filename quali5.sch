@@ -6,24 +6,13 @@ encoding utf-8
 Sheet 1 1
 Title "Quali5"
 Date ""
-Rev "1"
+Rev "2"
 Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L kbd:ProMicro U1
-U 1 1 60AA1DB7
-P 2700 2300
-F 0 "U1" H 2700 3137 60  0000 C CNN
-F 1 "ProMicro" H 2700 3031 60  0000 C CNN
-F 2 "kbd:ProMicro_v3.5" H 2800 1250 60  0001 C CNN
-F 3 "" H 2800 1250 60  0000 C CNN
-	1    2700 2300
-	1    0    0    -1  
-$EndComp
 $Comp
 L kbd:OLED OL1
 U 1 1 60AA2FB4
@@ -63,7 +52,7 @@ U 1 1 60AAE188
 P 5400 2350
 F 0 "D1" V 5446 2280 50  0000 R CNN
 F 1 "D_Small" V 5355 2280 50  0000 R CNN
-F 2 "kbd:D3_TH" V 5400 2350 50  0001 C CNN
+F 2 "kbd:D3_SMD" V 5400 2350 50  0001 C CNN
 F 3 "~" V 5400 2350 50  0001 C CNN
 	1    5400 2350
 	0    -1   -1   0   
@@ -100,17 +89,6 @@ F 2 "" H 3550 1850 50  0001 C CNN
 F 3 "" H 3550 1850 50  0001 C CNN
 	1    3550 1850
 	0    -1   1    0   
-$EndComp
-$Comp
-L power:VCC #PWR09
-U 1 1 60AB3B89
-P 3550 2050
-F 0 "#PWR09" H 3550 1900 50  0001 C CNN
-F 1 "VCC" V 3565 2178 50  0000 L CNN
-F 2 "" H 3550 2050 50  0001 C CNN
-F 3 "" H 3550 2050 50  0001 C CNN
-	1    3550 2050
-	0    1    1    0   
 $EndComp
 $Comp
 L power:VCC #PWR03
@@ -181,11 +159,7 @@ Wire Wire Line
 	2250 3800 2400 3800
 Wire Wire Line
 	3000 3800 3150 3800
-Text GLabel 1850 2550 0    50   Input ~ 0
-row0
-Text GLabel 1850 2650 0    50   Input ~ 0
-row1
-Text GLabel 3550 2750 2    50   Input ~ 0
+Text GLabel 3550 2250 2    50   Input ~ 0
 col0
 Text GLabel 3550 2850 2    50   Input ~ 0
 col1
@@ -207,14 +181,9 @@ NoConn ~ 2000 1750
 NoConn ~ 2000 1850
 NoConn ~ 2000 2350
 NoConn ~ 2000 2450
-NoConn ~ 3400 2650
-NoConn ~ 3400 2550
-NoConn ~ 3400 2150
 NoConn ~ 3400 1750
 Wire Wire Line
 	3400 1950 3550 1950
-Wire Wire Line
-	2000 2550 1850 2550
 $Comp
 L power:VCC #PWR01
 U 1 1 60AF3BFE
@@ -264,8 +233,6 @@ Wire Wire Line
 Wire Wire Line
 	1200 900  1200 950 
 Wire Wire Line
-	1850 2650 2000 2650
-Wire Wire Line
 	5400 3350 5400 3450
 Wire Wire Line
 	4900 3450 5400 3450
@@ -283,7 +250,7 @@ U 1 1 60AAD814
 P 5400 3250
 F 0 "D2" V 5446 3180 50  0000 R CNN
 F 1 "D_Small" V 5355 3180 50  0000 R CNN
-F 2 "kbd:D3_TH" V 5400 3250 50  0001 C CNN
+F 2 "kbd:D3_SMD" V 5400 3250 50  0001 C CNN
 F 3 "~" V 5400 3250 50  0001 C CNN
 	1    5400 3250
 	0    -1   -1   0   
@@ -316,7 +283,7 @@ U 1 1 60AAF5F7
 P 6750 5000
 F 0 "D5" V 6796 4930 50  0000 R CNN
 F 1 "D_Small" V 6705 4930 50  0000 R CNN
-F 2 "kbd:D3_TH" V 6750 5000 50  0001 C CNN
+F 2 "kbd:D3_SMD" V 6750 5000 50  0001 C CNN
 F 3 "~" V 6750 5000 50  0001 C CNN
 	1    6750 5000
 	0    -1   -1   0   
@@ -351,7 +318,7 @@ U 1 1 60AAEECA
 P 5400 5000
 F 0 "D4" V 5446 4930 50  0000 R CNN
 F 1 "D_Small" V 5355 4930 50  0000 R CNN
-F 2 "kbd:D3_TH" V 5400 5000 50  0001 C CNN
+F 2 "kbd:D3_SMD" V 5400 5000 50  0001 C CNN
 F 3 "~" V 5400 5000 50  0001 C CNN
 	1    5400 5000
 	0    -1   -1   0   
@@ -362,7 +329,7 @@ U 1 1 60AAE914
 P 5400 4150
 F 0 "D3" V 5446 4080 50  0000 R CNN
 F 1 "D_Small" V 5355 4080 50  0000 R CNN
-F 2 "kbd:D3_TH" V 5400 4150 50  0001 C CNN
+F 2 "kbd:D3_SMD" V 5400 4150 50  0001 C CNN
 F 3 "~" V 5400 4150 50  0001 C CNN
 	1    5400 4150
 	0    -1   -1   0   
@@ -414,20 +381,53 @@ Wire Wire Line
 	4600 4000 4600 4850
 Connection ~ 4600 4000
 Wire Wire Line
-	3400 2850 3550 2850
-Wire Wire Line
-	3400 2750 3550 2750
-NoConn ~ 3400 2450
-NoConn ~ 3400 2350
-NoConn ~ 3400 2250
-Text GLabel 1850 2750 0    50   Input ~ 0
-row2
-Text GLabel 1850 2850 0    50   Input ~ 0
-row3
-Wire Wire Line
-	1850 2750 2000 2750
-Wire Wire Line
-	1850 2850 2000 2850
+	3400 2250 3550 2250
 Wire Wire Line
 	5950 1750 5950 4850
+$Comp
+L power:VCC #PWR09
+U 1 1 60AB3B89
+P 3550 2050
+F 0 "#PWR09" H 3550 1900 50  0001 C CNN
+F 1 "VCC" V 3565 2178 50  0000 L CNN
+F 2 "" H 3550 2050 50  0001 C CNN
+F 3 "" H 3550 2050 50  0001 C CNN
+	1    3550 2050
+	0    1    1    0   
+$EndComp
+Text GLabel 3550 2150 2    50   Input ~ 0
+row0
+Wire Wire Line
+	3400 2150 3550 2150
+Text GLabel 3550 2350 2    50   Input ~ 0
+row1
+Wire Wire Line
+	3400 2550 3550 2550
+Wire Wire Line
+	3400 2450 3550 2450
+Wire Wire Line
+	3400 2350 3550 2350
+Text GLabel 3550 2450 2    50   Input ~ 0
+row2
+Text GLabel 3550 2550 2    50   Input ~ 0
+row3
+$Comp
+L kbd:ProMicro U1
+U 1 1 60AA1DB7
+P 2700 2300
+F 0 "U1" H 2700 3137 60  0000 C CNN
+F 1 "ProMicro" H 2700 3031 60  0000 C CNN
+F 2 "kbd:ProMicro_v3.5" H 2800 1250 60  0001 C CNN
+F 3 "" H 2800 1250 60  0000 C CNN
+	1    2700 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 2850 3550 2850
+NoConn ~ 3400 2650
+NoConn ~ 3400 2750
+NoConn ~ 2000 2550
+NoConn ~ 2000 2650
+NoConn ~ 2000 2750
+NoConn ~ 2000 2850
 $EndSCHEMATC
