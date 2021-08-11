@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 297 420"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1039267"
-     inkscape:cx="313.42662"
-     inkscape:cy="591.97773"
-     inkscape:window-width="2025"
+     inkscape:zoom="1.5611881"
+     inkscape:cx="561.75165"
+     inkscape:cy="322.51078"
+     inkscape:window-width="2725"
      inkscape:window-height="1639"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -39,209 +39,38 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g598"
-       transform="matrix(0.00254,0,0,0.00254,57.558562,96.65131)">
-      <g
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g421" />
-      <g
-         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g423" />
-      <g
-         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g533">
-        <path
-           d="M 9671,9223 7628,4167"
-           id="path425" />
-        <path
-           d="M 4615,11265 9671,9223"
-           id="path427" />
-        <path
-           d="m 2572,6210 2043,5055"
-           id="path429" />
-        <path
-           d="M 7628,4167 2572,6210"
-           id="path431" />
-        <path
-           d="m 32295,19593 664,-5412"
-           id="path433" />
-        <path
-           d="m 32959,14181 -5412,-665"
-           id="path435" />
-        <path
-           d="m 27547,13516 -665,5412"
-           id="path437" />
-        <path
-           d="m 26882,18928 5413,665"
-           id="path439" />
-        <path
-           d="m 32380,9122 994,-5361"
-           id="path441" />
-        <path
-           d="M 33374,3761 28012,2767"
-           id="path443" />
-        <path
-           d="m 28012,2767 -993,5361"
-           id="path445" />
-        <path
-           d="m 27019,8128 5361,994"
-           id="path447" />
-        <path
-           d="M 24635,6702 V 1250"
-           id="path449" />
-        <path
-           d="m 19183,6702 h 5452"
-           id="path451" />
-        <path
-           d="M 19183,1250 V 6702"
-           id="path453" />
-        <path
-           d="M 24635,1250 H 19183"
-           id="path455" />
-        <path
-           d="M 11683,1250 V 6702"
-           id="path457" />
-        <path
-           d="M 17135,1250 H 11683"
-           id="path459" />
-        <path
-           d="M 17135,6702 V 1250"
-           id="path461" />
-        <path
-           d="m 11683,6702 h 5452"
-           id="path463" />
-        <path
-           d="M 15127,16545 H 9"
-           id="path465" />
-        <path
-           d="m 15127,16702 v -157"
-           id="path467" />
-        <path
-           d="M 15127,21663 V 16702"
-           id="path469" />
-        <circle
-           cx="34655.5"
-           cy="20482.301"
-           r="433.07101"
-           id="circle471" />
-        <circle
-           cx="16348.4"
-           cy="19104.301"
-           r="433.07101"
-           id="circle473" />
-        <circle
-           cx="1190.95"
-           cy="10836.6"
-           r="433.07101"
-           id="circle475" />
-        <circle
-           cx="1190.95"
-           cy="1190.95"
-           r="433.07101"
-           id="circle477" />
-        <circle
-           cx="34655.5"
-           cy="1190.95"
-           r="433.07101"
-           id="circle479" />
-        <path
-           d="M 15127,21663 H 34753"
-           id="path481" />
-        <path
-           d="M 35836,1092 V 20580"
-           id="path483" />
-        <path
-           d="M 1092,9 H 34753"
-           id="path485" />
-        <path
-           d="M 14,1190 9,16545"
-           id="path487" />
-        <path
-           d="M 1092.52,9.84291 A 1082.68,1082.68 0 0 0 14.2892,1190.54"
-           id="path489" />
-        <path
-           d="m 34753.9,21663.4 a 1082.68,1082.68 0 0 0 1082.7,-1082.7"
-           id="path491" />
-        <path
-           d="M 35836.6,1092.52 A 1082.68,1082.68 0 0 0 34753.9,9.84291"
-           id="path493" />
-        <g
-           id="g495" />
-        <g
-           id="g497" />
-        <g
-           id="g499" />
-        <g
-           id="g501" />
-        <g
-           id="g503" />
-        <g
-           id="g505" />
-        <g
-           id="g507" />
-        <g
-           id="g509" />
-        <g
-           id="g511" />
-        <g
-           id="g513" />
-        <g
-           id="g515" />
-        <g
-           id="g517" />
-        <g
-           id="g519" />
-        <g
-           id="g521" />
-        <g
-           id="g523" />
-        <g
-           id="g525" />
-        <g
-           id="g527" />
-        <g
-           id="g529" />
-        <g
-           id="g531" />
-      </g>
-    </g>
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#0000f3;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000f3;stroke-width:0.199899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect173"
-       width="100"
-       height="100"
-       x="53.072166"
-       y="74.505157" />
+       width="199.9001"
+       height="199.9001"
+       x="53.122116"
+       y="74.555107" />
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
        id="g1272"
-       transform="matrix(0.04365625,0,0,0.04365625,83.164388,121.61675)">
+       transform="matrix(0.04365625,0,0,0.04365625,182.16208,104.03575)">
       <g
          transform="translate(-400.457,-526.547)"
          id="g1259">
         <g
-   id="レイヤー1"
-   transform="translate(2.9107,319.596)">
-            <g
-   id="g1256">
-                <text
-   x="382.358"
-   y="444.46701"
-   style="font-weight:500;font-size:288px;font-family:Futura-Medium, Futura, sans-serif;fill:#ff0000"
-   id="text1252">Quali</text>
-
-                <text
-   x="1127.58"
-   y="444.46701"
-   style="font-size:345.6px;font-family:GillSans, 'Gill Sans', sans-serif;fill:#ff0000"
-   id="text1254">5</text>
-
-            </g>
-
+           id="レイヤー1"
+           transform="translate(2.9107,319.596)">
+          <g
+             id="g1256">
+            <text
+               x="382.358"
+               y="444.46701"
+               style="font-weight:500;font-size:288px;font-family:Futura-Medium, Futura, sans-serif;fill:#ff0000"
+               id="text1252">Quali</text>
+            <text
+               x="1127.58"
+               y="444.46701"
+               style="font-size:345.6px;font-family:GillSans, 'Gill Sans', sans-serif;fill:#ff0000"
+               id="text1254">5</text>
+          </g>
         </g>
-
-    </g>
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -268,32 +97,916 @@
          x="5.7521911"
          y="33.505222" /><tspan
          sodipodi:role="line"
-         id="tspan6611"
          x="5.7521911"
          y="40.119808"
+         id="tspan6642"
+         style="fill:#0000ff">* Please make the thickness as 1.6-1.7 mm. </tspan><tspan
+         sodipodi:role="line"
+         x="5.7521911"
+         y="46.734398"
+         style="fill:#0000ff"
+         id="tspan8348" /><tspan
+         sodipodi:role="line"
+         id="tspan6611"
+         x="5.7521911"
+         y="53.348984"
          style="fill:#0000ff">Thank you :)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="93.46373"
+       x="145.23347"
        y="72.381767"
        id="text9537"><tspan
          sodipodi:role="line"
          id="tspan9535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:0.264583"
-         x="93.46373"
-         y="72.381767">100mm</tspan></text>
+         x="145.23347"
+         y="72.381767">200mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-131.8465"
-       y="49.29715"
+       x="-184.09558"
+       y="48.817799"
        id="text9537-9"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan9535-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:0.264583"
-         x="-131.8465"
-         y="49.29715">100mm</tspan></text>
+         x="-184.09558"
+         y="48.817799">200mm</tspan></text>
+    <g
+       id="g3945"
+       transform="matrix(0.00254,0,0,0.00254,79.396791,-5.4647681)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3768" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3770" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3880">
+        <path
+           d="M 45397,50035 H 30279"
+           id="path3772" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path3774" />
+        <path
+           d="m 45397,50114 v 5039"
+           id="path3776" />
+        <path
+           d="m 32839,39684 2050,5074"
+           id="path3778" />
+        <path
+           d="M 39963,42708 37913,37634"
+           id="path3780" />
+        <path
+           d="m 34889,44758 5074,-2050"
+           id="path3782" />
+        <path
+           d="m 37913,37634 -5074,2050"
+           id="path3784" />
+        <path
+           d="m 57798,47005 -667,5432"
+           id="path3786" />
+        <path
+           d="m 62563,53104 667,-5432"
+           id="path3788" />
+        <path
+           d="m 57131,52437 5432,667"
+           id="path3790" />
+        <path
+           d="m 63230,47672 -5432,-667"
+           id="path3792" />
+        <path
+           d="m 58264,36236 -997,5380"
+           id="path3794" />
+        <path
+           d="m 62648,42614 997,-5381"
+           id="path3796" />
+        <path
+           d="m 57267,41616 5381,998"
+           id="path3798" />
+        <path
+           d="m 63645,37233 -5381,-997"
+           id="path3800" />
+        <path
+           d="M 54925,40192 V 34720"
+           id="path3802" />
+        <path
+           d="m 49452,34720 v 5472"
+           id="path3804" />
+        <path
+           d="M 54925,34720 H 49452"
+           id="path3806" />
+        <path
+           d="m 49452,40192 h 5473"
+           id="path3808" />
+        <path
+           d="M 47405,34720 H 41933"
+           id="path3810" />
+        <path
+           d="M 47405,40192 V 34720"
+           id="path3812" />
+        <path
+           d="m 41933,40192 h 5472"
+           id="path3814" />
+        <path
+           d="m 41933,34720 v 5472"
+           id="path3816" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle3818" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3820" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3822" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3824" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3826" />
+        <path
+           d="M 45397,55153 H 65023"
+           id="path3828" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path3830" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path3832" />
+        <path
+           d="m 30283,34680 -4,15355"
+           id="path3834" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path3836" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path3838" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path3840" />
+        <g
+           id="g3842" />
+        <g
+           id="g3844" />
+        <g
+           id="g3846" />
+        <g
+           id="g3848" />
+        <g
+           id="g3850" />
+        <g
+           id="g3852" />
+        <g
+           id="g3854" />
+        <g
+           id="g3856" />
+        <g
+           id="g3858" />
+        <g
+           id="g3860" />
+        <g
+           id="g3862" />
+        <g
+           id="g3864" />
+        <g
+           id="g3866" />
+        <g
+           id="g3868" />
+        <g
+           id="g3870" />
+        <g
+           id="g3872" />
+        <g
+           id="g3874" />
+        <g
+           id="g3876" />
+        <g
+           id="g3878" />
+      </g>
+    </g>
+    <g
+       id="g4298"
+       transform="matrix(0.00254,0,0,0.00254,-17.080229,-5.4813491)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4181" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4183" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4253">
+        <path
+           d="M 44177,45822 H 30279"
+           id="path4185" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path4187" />
+        <path
+           d="m 44177,45822 v 9331"
+           id="path4189" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle4191" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4193" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4195" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4197" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4199" />
+        <path
+           d="M 44177,55153 H 65023"
+           id="path4201" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path4203" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path4205" />
+        <path
+           d="m 30283,34680 -4,11142"
+           id="path4207" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path4209" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path4211" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path4213" />
+        <g
+           id="g4215" />
+        <g
+           id="g4217" />
+        <g
+           id="g4219" />
+        <g
+           id="g4221" />
+        <g
+           id="g4223" />
+        <g
+           id="g4225" />
+        <g
+           id="g4227" />
+        <g
+           id="g4229" />
+        <g
+           id="g4231" />
+        <g
+           id="g4233" />
+        <g
+           id="g4235" />
+        <g
+           id="g4237" />
+        <g
+           id="g4239" />
+        <g
+           id="g4241" />
+        <g
+           id="g4243" />
+        <g
+           id="g4245" />
+        <g
+           id="g4247" />
+        <g
+           id="g4249" />
+        <g
+           id="g4251" />
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+       id="g1272-7"
+       transform="matrix(0.04365625,0,0,0.04365625,181.96991,164.02183)">
+      <g
+         transform="translate(-400.457,-526.547)"
+         id="g1259-3">
+        <g
+           id="レイヤー1-7"
+           transform="translate(2.9107,319.596)">
+          <g
+             id="g1256-9">
+            <text
+               x="382.358"
+               y="444.46701"
+               style="font-weight:500;font-size:288px;font-family:Futura-Medium, Futura, sans-serif;fill:#ff0000"
+               id="text1252-0">Quali</text>
+            <text
+               x="1127.58"
+               y="444.46701"
+               style="font-size:345.6px;font-family:GillSans, 'Gill Sans', sans-serif;fill:#ff0000"
+               id="text1254-2">5</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3945-3"
+       transform="matrix(0.00254,0,0,0.00254,79.204625,54.521314)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3768-9" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3770-9" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3880-7">
+        <path
+           d="M 45397,50035 H 30279"
+           id="path3772-0" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path3774-3" />
+        <path
+           d="m 45397,50114 v 5039"
+           id="path3776-9" />
+        <path
+           d="m 32839,39684 2050,5074"
+           id="path3778-8" />
+        <path
+           d="M 39963,42708 37913,37634"
+           id="path3780-6" />
+        <path
+           d="m 34889,44758 5074,-2050"
+           id="path3782-5" />
+        <path
+           d="m 37913,37634 -5074,2050"
+           id="path3784-7" />
+        <path
+           d="m 57798,47005 -667,5432"
+           id="path3786-6" />
+        <path
+           d="m 62563,53104 667,-5432"
+           id="path3788-2" />
+        <path
+           d="m 57131,52437 5432,667"
+           id="path3790-7" />
+        <path
+           d="m 63230,47672 -5432,-667"
+           id="path3792-0" />
+        <path
+           d="m 58264,36236 -997,5380"
+           id="path3794-3" />
+        <path
+           d="m 62648,42614 997,-5381"
+           id="path3796-9" />
+        <path
+           d="m 57267,41616 5381,998"
+           id="path3798-9" />
+        <path
+           d="m 63645,37233 -5381,-997"
+           id="path3800-9" />
+        <path
+           d="M 54925,40192 V 34720"
+           id="path3802-1" />
+        <path
+           d="m 49452,34720 v 5472"
+           id="path3804-7" />
+        <path
+           d="M 54925,34720 H 49452"
+           id="path3806-2" />
+        <path
+           d="m 49452,40192 h 5473"
+           id="path3808-3" />
+        <path
+           d="M 47405,34720 H 41933"
+           id="path3810-6" />
+        <path
+           d="M 47405,40192 V 34720"
+           id="path3812-5" />
+        <path
+           d="m 41933,40192 h 5472"
+           id="path3814-5" />
+        <path
+           d="m 41933,34720 v 5472"
+           id="path3816-8" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle3818-1" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3820-4" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3822-7" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3824-1" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3826-3" />
+        <path
+           d="M 45397,55153 H 65023"
+           id="path3828-8" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path3830-4" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path3832-8" />
+        <path
+           d="m 30283,34680 -4,15355"
+           id="path3834-0" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path3836-4" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path3838-6" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path3840-0" />
+        <g
+           id="g3842-3" />
+        <g
+           id="g3844-2" />
+        <g
+           id="g3846-6" />
+        <g
+           id="g3848-9" />
+        <g
+           id="g3850-4" />
+        <g
+           id="g3852-1" />
+        <g
+           id="g3854-3" />
+        <g
+           id="g3856-7" />
+        <g
+           id="g3858-8" />
+        <g
+           id="g3860-8" />
+        <g
+           id="g3862-3" />
+        <g
+           id="g3864-8" />
+        <g
+           id="g3866-1" />
+        <g
+           id="g3868-5" />
+        <g
+           id="g3870-3" />
+        <g
+           id="g3872-5" />
+        <g
+           id="g3874-4" />
+        <g
+           id="g3876-3" />
+        <g
+           id="g3878-6" />
+      </g>
+    </g>
+    <g
+       id="g4298-5"
+       transform="matrix(0.00254,0,0,0.00254,-17.272394,54.504733)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4181-9" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4183-5" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4253-4">
+        <path
+           d="M 44177,45822 H 30279"
+           id="path4185-9" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path4187-1" />
+        <path
+           d="m 44177,45822 v 9331"
+           id="path4189-7" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle4191-5" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4193-5" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4195-4" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4197-1" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4199-8" />
+        <path
+           d="M 44177,55153 H 65023"
+           id="path4201-8" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path4203-3" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path4205-5" />
+        <path
+           d="m 30283,34680 -4,11142"
+           id="path4207-2" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path4209-2" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path4211-6" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path4213-6" />
+        <g
+           id="g4215-7" />
+        <g
+           id="g4217-8" />
+        <g
+           id="g4219-4" />
+        <g
+           id="g4221-1" />
+        <g
+           id="g4223-7" />
+        <g
+           id="g4225-1" />
+        <g
+           id="g4227-8" />
+        <g
+           id="g4229-7" />
+        <g
+           id="g4231-8" />
+        <g
+           id="g4233-7" />
+        <g
+           id="g4235-7" />
+        <g
+           id="g4237-4" />
+        <g
+           id="g4239-4" />
+        <g
+           id="g4241-9" />
+        <g
+           id="g4243-1" />
+        <g
+           id="g4245-5" />
+        <g
+           id="g4247-5" />
+        <g
+           id="g4249-5" />
+        <g
+           id="g4251-8" />
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+       id="g1272-7-1"
+       transform="matrix(0.04365625,0,0,0.04365625,181.46148,224.18568)">
+      <g
+         transform="translate(-400.457,-526.547)"
+         id="g1259-3-5">
+        <g
+           id="レイヤー1-7-5"
+           transform="translate(2.9107,319.596)">
+          <g
+             id="g1256-9-8">
+            <text
+               x="382.358"
+               y="444.46701"
+               style="font-weight:500;font-size:288px;font-family:Futura-Medium, Futura, sans-serif;fill:#ff0000"
+               id="text1252-0-5">Quali</text>
+            <text
+               x="1127.58"
+               y="444.46701"
+               style="font-size:345.6px;font-family:GillSans, 'Gill Sans', sans-serif;fill:#ff0000"
+               id="text1254-2-6">5</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3945-3-7"
+       transform="matrix(0.00254,0,0,0.00254,78.696194,114.68517)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3768-9-9" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3770-9-4" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g3880-7-1">
+        <path
+           d="M 45397,50035 H 30279"
+           id="path3772-0-6" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path3774-3-1" />
+        <path
+           d="m 45397,50114 v 5039"
+           id="path3776-9-2" />
+        <path
+           d="m 32839,39684 2050,5074"
+           id="path3778-8-0" />
+        <path
+           d="M 39963,42708 37913,37634"
+           id="path3780-6-4" />
+        <path
+           d="m 34889,44758 5074,-2050"
+           id="path3782-5-4" />
+        <path
+           d="m 37913,37634 -5074,2050"
+           id="path3784-7-5" />
+        <path
+           d="m 57798,47005 -667,5432"
+           id="path3786-6-9" />
+        <path
+           d="m 62563,53104 667,-5432"
+           id="path3788-2-7" />
+        <path
+           d="m 57131,52437 5432,667"
+           id="path3790-7-5" />
+        <path
+           d="m 63230,47672 -5432,-667"
+           id="path3792-0-3" />
+        <path
+           d="m 58264,36236 -997,5380"
+           id="path3794-3-9" />
+        <path
+           d="m 62648,42614 997,-5381"
+           id="path3796-9-0" />
+        <path
+           d="m 57267,41616 5381,998"
+           id="path3798-9-5" />
+        <path
+           d="m 63645,37233 -5381,-997"
+           id="path3800-9-5" />
+        <path
+           d="M 54925,40192 V 34720"
+           id="path3802-1-6" />
+        <path
+           d="m 49452,34720 v 5472"
+           id="path3804-7-3" />
+        <path
+           d="M 54925,34720 H 49452"
+           id="path3806-2-2" />
+        <path
+           d="m 49452,40192 h 5473"
+           id="path3808-3-6" />
+        <path
+           d="M 47405,34720 H 41933"
+           id="path3810-6-8" />
+        <path
+           d="M 47405,40192 V 34720"
+           id="path3812-5-9" />
+        <path
+           d="m 41933,40192 h 5472"
+           id="path3814-5-1" />
+        <path
+           d="m 41933,34720 v 5472"
+           id="path3816-8-4" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle3818-1-8" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3820-4-8" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle3822-7-7" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3824-1-1" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle3826-3-9" />
+        <path
+           d="M 45397,55153 H 65023"
+           id="path3828-8-3" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path3830-4-1" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path3832-8-1" />
+        <path
+           d="m 30283,34680 -4,15355"
+           id="path3834-0-4" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path3836-4-9" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path3838-6-5" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path3840-0-9" />
+        <g
+           id="g3842-3-0" />
+        <g
+           id="g3844-2-9" />
+        <g
+           id="g3846-6-3" />
+        <g
+           id="g3848-9-4" />
+        <g
+           id="g3850-4-0" />
+        <g
+           id="g3852-1-7" />
+        <g
+           id="g3854-3-5" />
+        <g
+           id="g3856-7-7" />
+        <g
+           id="g3858-8-5" />
+        <g
+           id="g3860-8-0" />
+        <g
+           id="g3862-3-6" />
+        <g
+           id="g3864-8-4" />
+        <g
+           id="g3866-1-7" />
+        <g
+           id="g3868-5-8" />
+        <g
+           id="g3870-3-4" />
+        <g
+           id="g3872-5-0" />
+        <g
+           id="g3874-4-0" />
+        <g
+           id="g3876-3-6" />
+        <g
+           id="g3878-6-2" />
+      </g>
+    </g>
+    <g
+       id="g4298-5-4"
+       transform="matrix(0.00254,0,0,0.00254,-17.780825,114.66858)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4181-9-7" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4183-5-4" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.685;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g4253-4-1">
+        <path
+           d="M 44177,45822 H 30279"
+           id="path4185-9-8" />
+        <path
+           d="m 45397,50114 v -79"
+           id="path4187-1-5" />
+        <path
+           d="m 44177,45822 v 9331"
+           id="path4189-7-8" />
+        <circle
+           cx="31421.301"
+           cy="44326.801"
+           r="393.70099"
+           id="circle4191-5-9" />
+        <circle
+           cx="48232.301"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4193-5-9" />
+        <circle
+           cx="64964.602"
+           cy="54011.801"
+           r="393.70099"
+           id="circle4195-4-9" />
+        <circle
+           cx="64964.602"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4197-1-3" />
+        <circle
+           cx="31421.301"
+           cy="34641.699"
+           r="393.70099"
+           id="circle4199-8-3" />
+        <path
+           d="M 44177,55153 H 65023"
+           id="path4201-8-7" />
+        <path
+           d="M 66106,34582 V 54070"
+           id="path4203-3-7" />
+        <path
+           d="M 31362,33500 H 65023"
+           id="path4205-5-3" />
+        <path
+           d="m 30283,34680 -4,11142"
+           id="path4207-2-2" />
+        <path
+           d="M 31362.2,33500 A 1082.68,1082.68 0 0 0 30284,34680.7"
+           id="path4209-2-5" />
+        <path
+           d="m 65023.6,55153.5 a 1082.68,1082.68 0 0 0 1082.7,-1082.6"
+           id="path4211-6-6" />
+        <path
+           d="M 66106.3,34582.7 A 1082.68,1082.68 0 0 0 65023.6,33500"
+           id="path4213-6-3" />
+        <g
+           id="g4215-7-4" />
+        <g
+           id="g4217-8-0" />
+        <g
+           id="g4219-4-6" />
+        <g
+           id="g4221-1-0" />
+        <g
+           id="g4223-7-4" />
+        <g
+           id="g4225-1-0" />
+        <g
+           id="g4227-8-5" />
+        <g
+           id="g4229-7-6" />
+        <g
+           id="g4231-8-8" />
+        <g
+           id="g4233-7-5" />
+        <g
+           id="g4235-7-3" />
+        <g
+           id="g4237-4-7" />
+        <g
+           id="g4239-4-6" />
+        <g
+           id="g4241-9-8" />
+        <g
+           id="g4243-1-6" />
+        <g
+           id="g4245-5-7" />
+        <g
+           id="g4247-5-1" />
+        <g
+           id="g4249-5-8" />
+        <g
+           id="g4251-8-4" />
+      </g>
+    </g>
   </g>
 </svg>
