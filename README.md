@@ -8,3 +8,9 @@ Quali5は、シンプルな左手用マクロパッドです。
 (QMK Firmwareを書き換えることでキーアサインは自由に変更可能です)
 
 ![quali5-top](https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2065.jpg)
+
+## Documents
+- 注文方法 / How to Order
+- [組み立て方法 / Build Guide](doc/build_guide.md)
+- キーアサインのカスタマイズ方法 / How to Change Key Assigns
+
