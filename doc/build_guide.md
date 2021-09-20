@@ -20,7 +20,7 @@
 
 ## 組み立て手順
 ### 1. ダイオードをハンダ付けする / Solder diodes
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2099.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2099.jpg" width=480px>
 
 PCBソケットのマークがある面(あるいは、Quali5の名前が書いてない面)にダイオードをハンダ付けします。
 
@@ -35,7 +35,7 @@ Be careful to orient the diode so that the vertical bar mark is on the left side
 <br>
 
 ### 2. スイッチ用PCBソケットをハンダ付けする / Solder PCB Hot-swappable sockets
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2103.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2103.jpg" width=480px>
 
 PCBソケットのマークに重なるように、スイッチ用PCBソケットをハンダ付けします。
 
@@ -46,7 +46,7 @@ Solder the PCB Hot-swappable sockets as the marks instructs.
 <br>
 
 ### 3. ピンヘッダをハンダ付けする / Solder pin headers to PCB plate
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1964.jpg" width=320px> <img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1963.jpg" width=320px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1964.jpg" width=320px> <img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1963.jpg" width=320px>
 
 ピンヘッダをPCB基板にハンダ付けします。
 
@@ -61,7 +61,7 @@ Then cut off the excess legs on the back side, as shown in the second picture. I
 <br>
 
 ### 4. ProMicroをハンダ付けする / Solder the ProMicro
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1965.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1965.jpg" width=480px>
 
 ProMicroをUSB差し込み口が外側になる向きで、PCB基板に半田付けします。
 
@@ -76,7 +76,7 @@ After soldering, cut off the excess legs as we did with pin headers.
 <br>
 
 ### 5. リセットスイッチをハンダ付けする / Solder a reset switch
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1967.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1967.jpg" width=480px>
 
 リセットスイッチをPCB基板にハンダ付けします。
 <br>
@@ -86,7 +86,7 @@ Solder a reset switch to the PCB board.
 <br>
 
 ### 6. OLEDにピンヘッダをハンダ付けする / Solder a pin header to an OLED
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1968.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1968.jpg" width=480px>
 
 OLEDをPCB基板にハンダ付けする準備として、まずはOLEDに付属のピンヘッダをハンダ付けします。
 
@@ -101,7 +101,7 @@ Be careful to the direction of the pin header. Confirm that insert it from the o
 <br>
 
 ### 7. OLEDをハンダ付けする / Solder the OLED to the the PCB plate
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_1970x.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_1970x.jpg" width=480px>
 
 OLEDをPCB基板にハンダ付けします。
 
@@ -112,7 +112,7 @@ Solder the OLED to the PCB board.
 <br>
 
 ### 8. スイッチとキーキャップをトッププレートにはめる / Attach switchs and keycaps to the top plate
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2094.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2094.jpg" width=480px>
 
 キーキャップをキースイッチにはめた上で、キースイッチをトッププレートにははめます。
 
@@ -127,7 +127,7 @@ It may wobble a little at this point, but don't worry.
 <br>
 
 ### 9. トッププレートをPCB基板にはめ込む / Mount the top plate over the PCB board
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2093.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2093.jpg" width=480px>
 
 トッププレートのキースイッチの足がPCB基板のソケットの位置と合っている事を確認しながら、トッププレートをPCB基板にはめます。
 
@@ -142,7 +142,7 @@ The switch will lift off the top plate when you insert it, but if the legs are a
 <br>
 
 ### 10. ボトムプレートにスペーサーをねじ止めする / Attach spacers to the bottom plate with screws
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2095.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2095.jpg" width=480px>
 
 写真の向きにスペーサーをボトムプレートに取り付け、裏側からネジで固定します。
 
@@ -153,7 +153,7 @@ Attach the spacers to the bottom plate in the orientation shown in the photo, an
 <br>
 
 ### 11. トッププレートとPCB基板をボトムプレートにはめ込む / Mount the top plate & PCB board over the bottom plate
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2097.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2097.jpg" width=480px>
 
 トッププレートとPCB基板を、PCB基板の穴がスペーサーにはまるようにボトムプレートに被せます。
 
@@ -164,7 +164,7 @@ Mount the top plate and PCB board over the bottom plate with the spacers fit int
 <br>
 
 ### 12. トッププレートをねじ止めする / Screw the top plate and PCB board to bottom plate
-<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2098.jpg" width=480px>
+<img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2098.jpg" width=480px>
 
 トッププレートの上からねじ止めでボトムプレートを固定して完成です。
 
