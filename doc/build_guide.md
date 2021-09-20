@@ -1,5 +1,21 @@
 # ビルドガイド / Build Guide
 
+* [材料 / Parts](#%E6%9D%90%E6%96%99--parts)
+* [組み立て手順](#%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E6%89%8B%E9%A0%86)
+    * [1. ダイオードをハンダ付けする / Solder diodes](#1-%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-diodes)
+    * [2. スイッチ用PCBソケットをハンダ付けする / Solder PCB Hot-swappable sockets](#2-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E7%94%A8pcb%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-pcb-hot-swappable-sockets)
+    * [3. ピンヘッダをハンダ付けする / Solder pin headers to PCB plate](#3-%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-pin-headers-to-pcb-plate)
+    * [4. ProMicroをハンダ付けする / Solder the ProMicro](#4-promicro%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-the-promicro)
+    * [5. リセットスイッチをハンダ付けする / Solder a reset switch](#5-%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-a-reset-switch)
+    * [6. OLEDにピンヘッダをハンダ付けする / Solder a pin header to an OLED](#6-oled%E3%81%AB%E3%83%94%E3%83%B3%E3%83%98%E3%83%83%E3%83%80%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-a-pin-header-to-an-oled)
+    * [7. OLEDをハンダ付けする / Solder the OLED to the the PCB plate](#7-oled%E3%82%92%E3%83%8F%E3%83%B3%E3%83%80%E4%BB%98%E3%81%91%E3%81%99%E3%82%8B--solder-the-oled-to-the-the-pcb-plate)
+    * [8. スイッチとキーキャップをトッププレートにはめる / Attach switchs and keycaps to the top plate](#8-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%A8%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E3%82%81%E3%82%8B--attach-switchs-and-keycaps-to-the-top-plate)
+    * [9. トッププレートをPCB基板にはめ込む / Mount the top plate over the PCB board](#9-%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92pcb%E5%9F%BA%E6%9D%BF%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80--mount-the-top-plate-over-the-pcb-board)
+    * [10. ボトムプレートにスペーサーをねじ止めする / Attach spacers to the bottom plate with screws](#10-%E3%83%9C%E3%83%88%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AB%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B5%E3%83%BC%E3%82%92%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81%E3%81%99%E3%82%8B--attach-spacers-to-the-bottom-plate-with-screws)
+    * [11. トッププレートとPCB基板をボトムプレートにはめ込む / Mount the top plate & PCB board over the bottom plate](#11-%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A8pcb%E5%9F%BA%E6%9D%BF%E3%82%92%E3%83%9C%E3%83%88%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80--mount-the-top-plate--pcb-board-over-the-bottom-plate)
+    * [12. トッププレートをねじ止めする / Screw the top plate and PCB board to bottom plate](#12-%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81%E3%81%99%E3%82%8B--screw-the-top-plate-and-pcb-board-to-bottom-plate)
+    * [13. ファームウェアを書き込む / Flash the Firmware](#13-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80--flash-the-firmware)
+
 ## 材料 / Parts
 
 | 名前 / Name | 個数 / Qty | 備考 / Remarks | 入手方法 / Where to buy |
