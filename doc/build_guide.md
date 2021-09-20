@@ -2,6 +2,22 @@
 
 ## 材料 / Parts
 
+| 名前 / Name | 個数 / Qty | 備考 / Remarks | 入手方法 / Where to buy |
+| -- | -- | -- | -- |
+| トッププレート<br>Top plate | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/plates |
+| PCB基板<br>PCB board | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/gerber-pcb |
+| ボトムプレート<br>Bottom plate | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/plates |
+| ProMicro | 1 | ピンヘッダ付属のもの<br>Choose one includes pin headers | https://shop.yushakobo.jp/products/pro-micro |
+| OLED | 1 | ピンヘッダ付属のもの<br>Choose one includes pin headers<br>ピンソケットは不要です<br>Pin Socket is not need | https://shop.yushakobo.jp/products/oled |
+| タクタイルスイッチ<br>Tactile switch| 1 | リセットスイッチ用<br>Use as reset switch | https://shop.yushakobo.jp/products/a0800ts-01-1 |
+| キーキャップ<br>Keycap | 5 | Kailh Chocロープロファイル互換のもの<br> Choose Kailh Choc V1 compatible one | https://shop.yushakobo.jp/products/pg1350cap-blank |
+| キースイッチ<br>Key switch | 5 | Kailh Chocロープロファイル互換のもの<br> Choose Kailh Choc V1 compatible one | https://shop.yushakobo.jp/products/pg1350 |
+| スイッチ用PCBソケット<br>PCB Hot-swappable sockets | 5 | Kailh Chocロープロファイル互換のもの<br> Choose Kailh Choc V1 compatible one | https://shop.yushakobo.jp/products/a01ps?variant=37665172553889 |
+| 表面実装ダイオード<br>Surface mount diode | 5 | | https://shop.yushakobo.jp/products/a0800di-02-100 |
+| M2スリムヘッド小ネジ(5mm)<br>Slim head small screw M2x5 | 5 | ボトムプレート用<br>Use to fix bottom plate | https://shop.yushakobo.jp/products/a0800s2 |
+| M2丸型スペーサー(6mm)<br>Round Spacer M2x6 | 5 | | https://shop.yushakobo.jp/products/a0800c2 |
+| M2ネジ(3mm)<br>Screw M2x3 | 5 | トッププレート用<br>Use to fix top plate | https://ja.aliexpress.com/item/33022872348.html |
+
 ## 組み立て手順
 ### 1. ダイオードをハンダ付けする / Solder diodes
 <img alt="quali5-top" src="https://raw.githubusercontent.com/tamano/quali5/add-build-guide/img/IMG_2099.jpg" width=480px>
