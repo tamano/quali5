@@ -10,7 +10,7 @@ Quali5は、シンプルな左手用マクロパッドです。
 ![quali5-top](https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2065.jpg)
 
 ## Documents
-- 注文方法 / How to Order
+- [注文方法 / How to Order](doc/how_to_order.md)
 - [組み立て方法 / Build Guide](doc/build_guide.md)
 - キーアサインのカスタマイズ方法 / How to Change Key Assigns
 
