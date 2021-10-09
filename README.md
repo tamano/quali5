@@ -1,11 +1,11 @@
 # Quali5
-Quali5 is a simple left-handed macropad.
-It can be used as an 8-key keybaord with 2 layered 4 keys which can toggle with a thumb key.
-(You can change key assigns with QMK Firmware)
-
 Quali5は、シンプルな左手用マクロパッドです。
 親指キーでレイヤー切り替え可能な4個のキーで、合計8個のキーとして使う事が出来ます。
 (QMK Firmwareを書き換えることでキーアサインは自由に変更可能です)
+
+Quali5 is a simple left-handed macropad.
+It can be used as an 8-key keybaord with 2 layered 4 keys which can toggle with a thumb key.
+(You can change key assigns with QMK Firmware)
 
 ![quali5-top](https://raw.githubusercontent.com/tamano/quali5/main/img/IMG_2065.jpg)
 
