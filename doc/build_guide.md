@@ -197,13 +197,53 @@ Fix the bottom plate by screwing it on top of the top plate and you are done.
 
 ### 13. ファームウェアを書き込む / Flash the Firmware
 
-完成したキーボードをUSBケーブルでPCに接続した上で、以下のコマンドを実行してファームウェアを書き込みます。
+完成したキーボードをUSBケーブルでPCに接続した上で、ファームウェアを書き込みます。
+
+ファームウェアの書き込み方には、手軽な順に、[Remap](https://remap-keys.app/)を使う方法、[VIA](https://caniusevia.com/)を使う方法、QMKコマンドを直接使う方法の３種類があるので、いずれかを実施してください。
+
+以下、それぞれについて説明します。
+
+<br>
+
+Connect the completed keyboard to the PC with a USB cable, and write the firmware.
+
+There are 3 ways to write firmware, in order of convenience: using [Remap](https://remap-keys.app/), using [VIA](https://caniusevia.com/), and directly using the QMK command.
+
+Each of them is explained below. So follow one of them.
+
+<br>
+
+#### Remapを使う方法 / Using Remap
+
+Remapにアクセスして、 `START REMAP FOR YOUR KEYBOARD` から、 [こちらのJSONファイル](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json)を読み込み、 `Flash` ボタンで書き込んでください。
+
+詰まった場合は、[こちらのブログ記事](https://salicylic-acid3.hatenablog.com/entry/remap-manual)が非常にわかりやすいので、参考にしてみてください。
+
+<br>
+
+Access to Remap and click `START REMAP FOR YOUR KEYBOARD` then import [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json) and click `Flash` button.
+
+<br>
+
+#### VIAを使う方法 / Using VIA
+
+VIAを起動して、左上の File メニューより `Import Keymap` を選択し、[こちらのJSONファイル](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json)を読み込んでください。
+
+<br>
+
+Start VIA, select `Import Keymap` from the File menu in the upper left corner, and load [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/ quali5.json).
+
+<br>
+
+#### QMKコマンドを使う方法 / Using QMK command
+
+以下のコマンドを実行してファームウェアを書き込みます。
 
 まだQMKをインストールしていない場合は、[こちらの手順](https://docs.qmk.fm/#/ja/newbs_getting_started)に従って `2. ビルド環境を準備する` まで実施して環境を整えた上で、以下のコマンドを実施してください)
 
 <br>
 
-Connect the completed keyboard to the PC with a USB cable, and execute the following command to write the firmware.
+Execute the following commands to write the firmware.
 
 If you have not installed QMK yet, please follow [this procedure](https://docs.qmk.fm/#/newbs_getting_started) to `2. Prepare Your Build Environment`, and then execute the following command)
 
@@ -213,5 +253,5 @@ If you have not installed QMK yet, please follow [this procedure](https://docs.q
 cd your_workspace_directory
 qmk setup tamano/qmk_firmware --branch quali5
 cd qmk_firmware
-qmk flash -kb tamano/quali5 -km default          # 画面で指示されたらリセットボタンを押す / Push the reset button when instructed
+qmk flash -kb tamano/quali5 -km via          # 画面で指示されたらリセットボタンを押す / Push the reset button when instructed
 ```
