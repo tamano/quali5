@@ -20,9 +20,9 @@
 
 | 名前 / Name | 個数 / Qty | 備考 / Remarks | 入手方法 / Where to buy |
 | -- | -- | -- | -- |
-| トッププレート<br>Top plate | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/plates |
-| PCB基板<br>PCB board | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/gerber-pcb |
-| ボトムプレート<br>Bottom plate | 1 | | TBD: https://github.com/tamano/quali5/tree/add-build-guide/plates |
+| トッププレート<br>Top plate | 1 | | [注文方法 / How to Order](/doc/how_to_order.md) |
+| PCB基板<br>PCB board | 1 | | [注文方法 / How to Order](/doc/how_to_order.md) |
+| ボトムプレート<br>Bottom plate | 1 | | [注文方法 / How to Order](/doc/how_to_order.md) |
 | ProMicro | 1 | ピンヘッダ付属のもの<br>Choose one includes pin headers | https://shop.yushakobo.jp/products/pro-micro |
 | OLED | 1 | ピンヘッダ付属のもの<br>Choose one includes pin headers<br>ピンソケットは不要です<br>Pin Socket is not need | https://shop.yushakobo.jp/products/oled |
 | タクタイルスイッチ<br>Tactile switch| 1 | リセットスイッチ用<br>Use as reset switch | https://shop.yushakobo.jp/products/a0800ts-01-1 |
