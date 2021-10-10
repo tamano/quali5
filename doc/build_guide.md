@@ -231,7 +231,7 @@ VIAを起動して、左上の File メニューより `Import Keymap` を選択
 
 <br>
 
-Start VIA, select `Import Keymap` from the File menu in the upper left corner, and load [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/ quali5.json).
+Start VIA, select `Import Keymap` from the File menu in the upper left corner, and load [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json).
 
 <br>
 
