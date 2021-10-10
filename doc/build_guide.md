@@ -15,6 +15,7 @@
     * [11. トッププレートとPCB基板をボトムプレートにはめ込む / Mount the top plate & PCB board over the bottom plate](#11-%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%A8pcb%E5%9F%BA%E6%9D%BF%E3%82%92%E3%83%9C%E3%83%88%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E3%82%81%E8%BE%BC%E3%82%80--mount-the-top-plate--pcb-board-over-the-bottom-plate)
     * [12. トッププレートをねじ止めする / Screw the top plate and PCB board to bottom plate](#12-%E3%83%88%E3%83%83%E3%83%97%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%92%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81%E3%81%99%E3%82%8B--screw-the-top-plate-and-pcb-board-to-bottom-plate)
     * [13. ファームウェアを書き込む / Flash the Firmware](#13-%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%82%80--flash-the-firmware)
+    * [14. キーマップを変更する / Customizing keymap](https://github.com/tamano/quali5/blob/main/doc/build_guide.md#14-%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B--customizing-keymap)
 
 ## 材料 / Parts
 
@@ -199,7 +200,7 @@ Fix the bottom plate by screwing it on top of the top plate and you are done.
 
 完成したキーボードをUSBケーブルでPCに接続した上で、ファームウェアを書き込みます。
 
-ファームウェアの書き込み方には、手軽な順に、[Remap](https://remap-keys.app/)を使う方法、[VIA](https://caniusevia.com/)を使う方法、QMKコマンドを直接使う方法の３種類があるので、いずれかを実施してください。
+ファームウェアの書き込む方法には、[Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html)や[QMK Toolbox](https://github.com/qmk/qmk_toolbox)といったツールを使う方法と、QMKコマンドで直接描き込む方法の２種類があるので、いずれかを実施してください。
 
 以下、それぞれについて説明します。
 
@@ -207,31 +208,25 @@ Fix the bottom plate by screwing it on top of the top plate and you are done.
 
 Connect the completed keyboard to the PC with a USB cable, and write the firmware.
 
-There are 3 ways to write firmware, in order of convenience: using [Remap](https://remap-keys.app/), using [VIA](https://caniusevia.com/), and directly using the QMK command.
+There are 2 ways to write firmware, using a tool such as Pro Micro Web Updater or QMK Toolbox, or directly using QMK commands.
 
-Each of them is explained below. So follow one of them.
-
-<br>
-
-#### Remapを使う方法 / Using Remap
-
-Remapにアクセスして、 `START REMAP FOR YOUR KEYBOARD` から、 [こちらのJSONファイル](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json)を読み込み、 `Flash` ボタンで書き込んでください。
-
-詰まった場合は、[こちらのブログ記事](https://salicylic-acid3.hatenablog.com/entry/remap-manual)が非常にわかりやすいので、参考にしてみてください。
+Each way is explained below. So follow one of them.
 
 <br>
 
-Access to Remap and click `START REMAP FOR YOUR KEYBOARD` then import [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json) and click `Flash` button.
+#### ツールを使う方法 / Using tool
+
+[Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html)や[QMK Toolbox](https://github.com/qmk/qmk_toolbox)を使う事で、簡単にファームウェアを書き込むことができます。
+
+なお、その際のHexファイル(コンパイル済みファームウェア)は、[こちらのファイル](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/tamano_quali5_via.hex)を利用してください。
+
+Pro Micro Web Updaterの使い方は、[遊舎工房の説明](https://yushakobo.zendesk.com/hc/ja/articles/1500011696701)が丁寧でわかりやすいので参考にしてみてください。
 
 <br>
 
-#### VIAを使う方法 / Using VIA
+By using [Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html) or [QMK Toolbox](https://github.com/qmk/qmk_toolbox), you can easily write the firmware.
 
-VIAを起動して、左上の File メニューより `Import Keymap` を選択し、[こちらのJSONファイル](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json)を読み込んでください。
-
-<br>
-
-Start VIA, select `Import Keymap` from the File menu in the upper left corner, and load [this JSON file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/quali5.json).
+Please use [this file](https://github.com/tamano/qmk_firmware/releases/download/quali5-rev.2a/tamano_quali5_via.hex) as the Hex file (compiled firmware).
 
 <br>
 
@@ -255,3 +250,15 @@ qmk setup tamano/qmk_firmware --branch quali5
 cd qmk_firmware
 qmk flash -kb tamano/quali5 -km via          # 画面で指示されたらリセットボタンを押す / Push the reset button when instructed
 ```
+
+<br>
+
+### 14. キーマップを変更する / Customizing keymap
+
+ファームウェアを書き込んだ後、キーマップを変更する方法については[キーマップのカスタマイズ方法 / How to Change Key Maps](/doc/customize_keymap.md)を参照してください。
+
+<br>
+
+For information about changing keymap after writing the firmware, please refer to [How to Change Keymaps](/doc/customize_keymap.md).
+
+<br>

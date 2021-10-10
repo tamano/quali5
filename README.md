@@ -12,5 +12,4 @@ It can be used as an 8-key keybaord with 2 layered 4 keys which can toggle with 
 ## Documents
 - [注文方法 / How to Order](doc/how_to_order.md)
 - [組み立て方法 / Build Guide](doc/build_guide.md)
-- キーアサインのカスタマイズ方法 / How to Change Key Assigns
-
+- [キーマップのカスタマイズ方法 / How to Change Keymaps](doc/customize_keymap.md)
